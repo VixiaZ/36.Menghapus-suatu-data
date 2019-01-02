@@ -1,0 +1,1 @@
+# 36.Menghapus-suatu-data
